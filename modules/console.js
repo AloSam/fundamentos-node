@@ -45,11 +45,11 @@
 // console.log('empezamos');
 // function1();
 
-// console.count('veces'); // para contar
-// console.count('veces');
-// console.count('veces');
-// console.countReset('veces');
-// console.count('veces');
+console.count('veces'); // para contar
+console.count('veces');
+console.count('veces');
+console.countReset('veces');
+console.count('veces');
 
 
 
